@@ -1,2 +1,2 @@
-# Trees
-Code repository for DSTA Topics using Java
+# Source Code and Reading Materials
+Repository for DSTA Topics using Java
